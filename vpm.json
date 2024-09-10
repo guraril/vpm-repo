@@ -1,0 +1,24 @@
+{
+    "name": "guraril",
+    "id": "io.github.guraril.vpm",
+    "author": "guraril",
+    "url": "",
+    "packages": {
+        "io.github.guraril.fix-linux-world-issues": {
+            "versions": {
+                "0.1.0": {
+                    "name": "io.github.guraril.fix-linux-world-issues",
+                    "version": "0.1.0",
+                    "displayName": "Fix VRCWorld issues on Linux",
+                    "description": "Fix world uploading issues on Linux",
+                    "unity": "2022.3",
+                    "license": "MIT",
+                    "keywords": [
+                        "Linux"
+                    ],
+                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/archive/refs/tags/v0.1.0.zip"
+                }
+            }
+        }
+    }
+}
