@@ -2,7 +2,7 @@
     "name": "guraril",
     "id": "io.github.guraril.vpm",
     "author": "guraril",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/guraril/vpm-repo/main/vpm.json",
     "packages": {
         "io.github.guraril.fix-linux-world-issues": {
             "versions": {
