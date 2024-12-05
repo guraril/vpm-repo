@@ -77,6 +77,18 @@
                         "Linux"
                     ],
                     "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.4.0/io.github.guraril.fix-linux-world-issues-v0.4.0.zip"
+                },
+                "0.4.1": {
+                    "name": "io.github.guraril.fix-linux-world-issues",
+                    "version": "0.4.1",
+                    "displayName": "Fix VRCWorld issues on Linux",
+                    "description": "Linuxで遭遇するVRCWorld関連の問題を回避します",
+                    "unity": "2022.3",
+                    "license": "MIT",
+                    "keywords": [
+                        "Linux"
+                    ],
+                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.4.1/io.github.guraril.fix-linux-world-issues-v0.4.1.zip"
                 }
             }
         }
