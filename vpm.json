@@ -16,7 +16,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.1.0/io.github.guraril.fix-linux-world-issues-0.1.0.zip"
+                    "url": ""
                 },
                 "0.1.1": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -28,7 +28,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.1.1/io.github.guraril.fix-linux-world-issues-0.1.1.zip"
+                    "url": ""
                 },
                 "0.2.0": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -40,7 +40,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.2.0/io.github.guraril.fix-linux-world-issues-v0.2.0.zip"
+                    "url": ""
                 },
                 "0.3.0": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -52,7 +52,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.3.0/io.github.guraril.fix-linux-world-issues-v0.3.0.zip"
+                    "url": ""
                 },
                 "0.3.1": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -64,7 +64,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.3.1/io.github.guraril.fix-linux-world-issues-v0.3.1.zip"
+                    "url": ""
                 },
                 "0.4.0": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -76,7 +76,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.4.0/io.github.guraril.fix-linux-world-issues-v0.4.0.zip"
+                    "url": ""
                 },
                 "0.4.1": {
                     "name": "io.github.guraril.fix-linux-world-issues",
@@ -88,7 +88,7 @@
                     "keywords": [
                         "Linux"
                     ],
-                    "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.4.1/io.github.guraril.fix-linux-world-issues-v0.4.1.zip"
+                    "url": ""
                 }
             }
         },
