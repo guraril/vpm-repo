@@ -91,6 +91,22 @@
                     "url": "https://github.com/guraril/io.github.guraril.fix-linux-world-issues/releases/download/v0.4.1/io.github.guraril.fix-linux-world-issues-v0.4.1.zip"
                 }
             }
+        },
+        "com.guraril.linux-vrcsdk-fix": {
+            "versions": {
+                "0.5.1": {
+                    "name": "com.guraril.linux-vrcsdk-fix",
+                    "version": "0.5.0",
+                    "displayName": "Linux VRCSDK Fix",
+                    "description": "Linuxで遭遇するVRCSDK関連の問題を回避します",
+                    "unity": "2022.3",
+                    "license": "MIT",
+                    "keywords": [
+                        "Linux"
+                    ],
+                    "url": "https://github.com/guraril/LinuxVRCSDKFix/releases/download/v0.5.0/com.guraril.linux-sdk-fix-v0.5.0.zip"
+                }
+            }
         }
     }
 }
